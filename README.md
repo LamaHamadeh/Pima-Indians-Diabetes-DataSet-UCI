@@ -8,3 +8,5 @@ This problem is comprised of 768 observations of medical details for Pima indian
 Each record has a class value that indicates whether the patient suffered an onset of diabetes within 5 years of when the measurements were taken (1) or not (0).
 
 This is a standard dataset that has been studied a lot in machine learning literature. A good prediction accuracy is 70%-76%.
+
+In this repository, we study this dataset by using K nearest neighbor classification method 
